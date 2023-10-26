@@ -6,11 +6,11 @@
   
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArsamAliMurtaza" alt="ArsamAliMurtaza" /></a> </p>  -->
   
-- 🌱 I’m currently learning **NestJs**  
+- 🌱 I’m currently learning **NestJS, React, Next**  
   
 - 💬 Ask me about **Python, JavaScript, SQL**  
   
-- 📫 How to reach me **arsamali300@gmail.com**  
+- 📫 How to reach me **arsamali300 at gmail dot com**  
   
   
 <h3 align="left">Connect with me:</h3>  
